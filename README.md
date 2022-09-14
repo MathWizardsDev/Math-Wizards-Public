@@ -33,7 +33,7 @@ This Application does not automatically collect, share nor retain any informatio
 If you would like to delete User Provided Data, you may do it by clearing the application's data or by uninstalling the Application from your mobile device. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
 Children
-Our Application does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. We do not use the Application to knowingly solicit data from or market to children under the age of 13.
+Our Application is intended for all ages. We do not knowingly collect personally identifiable information from any users. We do not use the Application to knowingly solicit data from or market to children under the age of 13.
 
 Security
 We are concerned about safeguarding the confidentiality of your information stored locally on your mobile device.
