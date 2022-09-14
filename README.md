@@ -1,16 +1,16 @@
-#PRIVACY POLICY FOR MOBILE APPLICATION "Math Wizards"
+# PRIVACY POLICY FOR MOBILE APPLICATION "Math Wizards"
 
 Last updated: September 13, 2022
 
 This privacy policy governs your use of the software application “Math Wizards” (later referred as the/this “Application”) for Android™ mobile devices.
 
-#User Provided Information
+# User Provided Information
 
 The Application does not require any user registration. The Application does not require the user to provide any personal information.
 
 The only User Provided Data that this Application uses is the information you provide directly within the Application when setting a user name.
 
-#Automatically Collected Information
+# Automatically Collected Information
 
 The Application does not collect any information automatically.
 
@@ -24,21 +24,21 @@ Do third parties see and/or have access to information obtained by the Applicati
 
 Not applicable since the Application does not collect any information automatically.
 
-#What are my opt-out rights?
+# What are my opt-out rights?
 
 You can easily delete all User Provided Data by uninstalling the Application from your mobile device. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
-#Data Retention Policy, Managing Your Information
+# Data Retention Policy, Managing Your Information
 
 This Application does not automatically collect, share nor retain any information.
 
 If you would like to delete User Provided Data, you may do it by clearing the application's data or by uninstalling the Application from your mobile device. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
-#Children
+# Children
 
 Our Application is intended for all ages. We do not knowingly collect personally identifiable information from any users.
 
-#Security
+# Security
 
 We are concerned about safeguarding the confidentiality of your information stored locally on your mobile device.
 
@@ -48,7 +48,7 @@ In order to ensure an optimal security, you shall regularly install any Applicat
 
 We also advise you to regularly check for any Android OS update(s) that could be available and to enable automatic updates.
 
-#Changes
+# Changes
 
 This Privacy Policy may be updated from time to time for any reason.
 
@@ -56,13 +56,13 @@ Please be aware that, although we endeavor provide reasonable security for infor
 
 You are advised to review this Privacy Policy periodically for any changes, as continued use is deemed approval of all changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
-#Your Consent
+# Your Consent
 
 By using the Application, you only consent to the local processing of your information.
 
 At any time, no User Provided Data (such as Countdown details) will be shared, processed and/or stored by third parties. User Provided Data cannot and will never be sold to any other third parties.
 
-#Contact Us
+# Contact Us
 
 If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at:
 mathwizardsdeveloper@gmail.com
